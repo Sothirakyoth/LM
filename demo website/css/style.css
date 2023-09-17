@@ -1,0 +1,35 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+}
+
+.img-curve {
+    border-radius: 10% ;
+}
+
+.page-content {
+    text-align: justify;
+    padding: 15px;
+}
+.content-header {
+    padding: 10px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+  }
+
+.imgmedia {
+    height: 200;
+    width: 300;
+}
